@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Calc1\Calc1\x64\Debug\Calc1.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calc1\Calc1\x64\Debug\Calc1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Calc1\Calc1\x64\Debug\Calc1.MyForm.resources
+C:\Users\User\source\repos\Calc1\Calc1\x64\Debug\Calc1.vcxproj.GenerateResource.cache

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Calc1\Calc1\MyForm.h(818,13): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calc1.vcxproj -> C:\Users\User\source\repos\Calc1\x64\Debug\Calc1.exe
