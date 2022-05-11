@@ -7,7 +7,7 @@ void main(array<String^>^ arg) {
     Application::EnableVisualStyles();
     Application::SetCompatibleTextRenderingDefault(false);
 
-    Calc1::MyForm form; //WinFormsTest - имя вашего проекта
+    Calc1::MyForm form;
     Application::Run(% form);
 }
 
