@@ -153,7 +153,7 @@ namespace Calc1 {
 			this->tabPage1->RightToLeft = System::Windows::Forms::RightToLeft::Yes;
 			this->tabPage1->Size = System::Drawing::Size(570, 388);
 			this->tabPage1->TabIndex = 0;
-			this->tabPage1->Text = L"Кредитный калькулятор";
+			this->tabPage1->Text = L"ГЉГ°ГҐГ¤ГЁГІГ­Г»Г© ГЄГ Г«ГјГЄГіГ«ГїГІГ®Г°";
 			this->tabPage1->UseVisualStyleBackColor = true;
 			this->tabPage1->Click += gcnew System::EventHandler(this, &MyForm::tabPage1_Click);
 			// 
@@ -165,7 +165,7 @@ namespace Calc1 {
 			this->button7->Name = L"button7";
 			this->button7->Size = System::Drawing::Size(136, 31);
 			this->button7->TabIndex = 13;
-			this->button7->Text = L"Доп. информация";
+			this->button7->Text = L"Г„Г®ГЇ. ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГї";
 			this->button7->UseVisualStyleBackColor = true;
 			this->button7->Click += gcnew System::EventHandler(this, &MyForm::button7_Click);
 			// 
@@ -192,7 +192,7 @@ namespace Calc1 {
 			this->label4->RightToLeft = System::Windows::Forms::RightToLeft::No;
 			this->label4->Size = System::Drawing::Size(413, 29);
 			this->label4->TabIndex = 11;
-			this->label4->Text = L"Ежемесячный платеж по кредиту составит: ";
+			this->label4->Text = L"Г…Г¦ГҐГ¬ГҐГ±ГїГ·Г­Г»Г© ГЇГ«Г ГІГҐГ¦ ГЇГ® ГЄГ°ГҐГ¤ГЁГІГі Г±Г®Г±ГІГ ГўГЁГІ: ";
 			this->label4->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			this->label4->Click += gcnew System::EventHandler(this, &MyForm::label4_Click);
 			// 
@@ -216,7 +216,7 @@ namespace Calc1 {
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(95, 31);
 			this->button2->TabIndex = 9;
-			this->button2->Text = L"Очистить";
+			this->button2->Text = L"ГЋГ·ГЁГ±ГІГЁГІГј";
 			this->button2->UseVisualStyleBackColor = true;
 			this->button2->Click += gcnew System::EventHandler(this, &MyForm::button2_Click);
 			// 
@@ -234,7 +234,7 @@ namespace Calc1 {
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(281, 37);
 			this->button1->TabIndex = 8;
-			this->button1->Text = L"Расчитать платеж по кредиту";
+			this->button1->Text = L"ГђГ Г±Г·ГЁГІГ ГІГј ГЇГ«Г ГІГҐГ¦ ГЇГ® ГЄГ°ГҐГ¤ГЁГІГі";
 			this->button1->UseVisualStyleBackColor = false;
 			this->button1->Click += gcnew System::EventHandler(this, &MyForm::button1_Click);
 			// 
@@ -249,7 +249,7 @@ namespace Calc1 {
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(235, 29);
 			this->label3->TabIndex = 6;
-			this->label3->Text = L"Срок кредитования, мес";
+			this->label3->Text = L"Г‘Г°Г®ГЄ ГЄГ°ГҐГ¤ГЁГІГ®ГўГ Г­ГЁГї, Г¬ГҐГ±";
 			this->label3->Click += gcnew System::EventHandler(this, &MyForm::label3_Click);
 			// 
 			// numericUpDown3
@@ -295,7 +295,7 @@ namespace Calc1 {
 			this->label2->RightToLeft = System::Windows::Forms::RightToLeft::No;
 			this->label2->Size = System::Drawing::Size(218, 29);
 			this->label2->TabIndex = 3;
-			this->label2->Text = L"Процентная ставка, %";
+			this->label2->Text = L"ГЏГ°Г®Г¶ГҐГ­ГІГ­Г Гї Г±ГІГ ГўГЄГ , %";
 			this->label2->Click += gcnew System::EventHandler(this, &MyForm::label2_Click);
 			// 
 			// label1
@@ -309,7 +309,7 @@ namespace Calc1 {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(238, 29);
 			this->label1->TabIndex = 2;
-			this->label1->Text = L"Сумма кредита, тыс. руб";
+			this->label1->Text = L"Г‘ГіГ¬Г¬Г  ГЄГ°ГҐГ¤ГЁГІГ , ГІГ»Г±. Г°ГіГЎ";
 			this->label1->Click += gcnew System::EventHandler(this, &MyForm::label1_Click);
 			// 
 			// numericUpDown1
@@ -352,7 +352,7 @@ namespace Calc1 {
 			this->tabPage2->Padding = System::Windows::Forms::Padding(2);
 			this->tabPage2->Size = System::Drawing::Size(570, 388);
 			this->tabPage2->TabIndex = 1;
-			this->tabPage2->Text = L"Калькулятор вкладов";
+			this->tabPage2->Text = L"ГЉГ Г«ГјГЄГіГ«ГїГІГ®Г° ГўГЄГ«Г Г¤Г®Гў";
 			this->tabPage2->UseVisualStyleBackColor = true;
 			// 
 			// button6
@@ -363,7 +363,7 @@ namespace Calc1 {
 			this->button6->Name = L"button6";
 			this->button6->Size = System::Drawing::Size(132, 28);
 			this->button6->TabIndex = 15;
-			this->button6->Text = L"Доп. информация";
+			this->button6->Text = L"Г„Г®ГЇ. ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГї";
 			this->button6->TextAlign = System::Drawing::ContentAlignment::TopLeft;
 			this->button6->UseVisualStyleBackColor = true;
 			this->button6->Click += gcnew System::EventHandler(this, &MyForm::button6_Click);
@@ -376,7 +376,7 @@ namespace Calc1 {
 			this->button5->Name = L"button5";
 			this->button5->Size = System::Drawing::Size(121, 31);
 			this->button5->TabIndex = 14;
-			this->button5->Text = L"Очистить";
+			this->button5->Text = L"ГЋГ·ГЁГ±ГІГЁГІГј";
 			this->button5->UseVisualStyleBackColor = true;
 			this->button5->Click += gcnew System::EventHandler(this, &MyForm::button5_Click);
 			// 
@@ -439,7 +439,7 @@ namespace Calc1 {
 			this->label11->Name = L"label11";
 			this->label11->Size = System::Drawing::Size(500, 25);
 			this->label11->TabIndex = 9;
-			this->label11->Text = L"Сумма денежных средств по окончании срока вклада, тыс:";
+			this->label11->Text = L"Г‘ГіГ¬Г¬Г  Г¤ГҐГ­ГҐГ¦Г­Г»Гµ Г±Г°ГҐГ¤Г±ГІГў ГЇГ® Г®ГЄГ®Г­Г·Г Г­ГЁГЁ Г±Г°Г®ГЄГ  ГўГЄГ«Г Г¤Г , ГІГ»Г±:";
 			this->label11->Click += gcnew System::EventHandler(this, &MyForm::label11_Click);
 			// 
 			// button4
@@ -450,7 +450,7 @@ namespace Calc1 {
 			this->button4->Name = L"button4";
 			this->button4->Size = System::Drawing::Size(375, 30);
 			this->button4->TabIndex = 8;
-			this->button4->Text = L"Расчитать итоговую сумму";
+			this->button4->Text = L"ГђГ Г±Г·ГЁГІГ ГІГј ГЁГІГ®ГЈГ®ГўГіГѕ Г±ГіГ¬Г¬Гі";
 			this->button4->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			this->button4->UseVisualStyleBackColor = true;
 			this->button4->Click += gcnew System::EventHandler(this, &MyForm::button4_Click);
@@ -464,7 +464,7 @@ namespace Calc1 {
 			this->label10->Name = L"label10";
 			this->label10->Size = System::Drawing::Size(339, 25);
 			this->label10->TabIndex = 7;
-			this->label10->Text = L" Число                   Месяц                   Год";
+			this->label10->Text = L" Г—ГЁГ±Г«Г®                   ГЊГҐГ±ГїГ¶                   ГѓГ®Г¤";
 			this->label10->Click += gcnew System::EventHandler(this, &MyForm::label10_Click);
 			// 
 			// textBox3
@@ -506,7 +506,7 @@ namespace Calc1 {
 			this->label9->Name = L"label9";
 			this->label9->Size = System::Drawing::Size(227, 25);
 			this->label9->TabIndex = 3;
-			this->label9->Text = L"Дата поступления вклада:";
+			this->label9->Text = L"Г„Г ГІГ  ГЇГ®Г±ГІГіГЇГ«ГҐГ­ГЁГї ГўГЄГ«Г Г¤Г :";
 			this->label9->Click += gcnew System::EventHandler(this, &MyForm::label9_Click);
 			// 
 			// label8
@@ -518,7 +518,7 @@ namespace Calc1 {
 			this->label8->Name = L"label8";
 			this->label8->Size = System::Drawing::Size(380, 25);
 			this->label8->TabIndex = 2;
-			this->label8->Text = L"Количество дней начисления процентов, дн:";
+			this->label8->Text = L"ГЉГ®Г«ГЁГ·ГҐГ±ГІГўГ® Г¤Г­ГҐГ© Г­Г Г·ГЁГ±Г«ГҐГ­ГЁГї ГЇГ°Г®Г¶ГҐГ­ГІГ®Гў, Г¤Г­:";
 			this->label8->Click += gcnew System::EventHandler(this, &MyForm::label8_Click);
 			// 
 			// label7
@@ -530,7 +530,7 @@ namespace Calc1 {
 			this->label7->Name = L"label7";
 			this->label7->Size = System::Drawing::Size(273, 25);
 			this->label7->TabIndex = 1;
-			this->label7->Text = L"Годовая процентная ставка, %:";
+			this->label7->Text = L"ГѓГ®Г¤Г®ГўГ Гї ГЇГ°Г®Г¶ГҐГ­ГІГ­Г Гї Г±ГІГ ГўГЄГ , %:";
 			this->label7->Click += gcnew System::EventHandler(this, &MyForm::label7_Click);
 			// 
 			// label6
@@ -542,7 +542,7 @@ namespace Calc1 {
 			this->label6->Name = L"label6";
 			this->label6->Size = System::Drawing::Size(353, 25);
 			this->label6->TabIndex = 0;
-			this->label6->Text = L"Первоначальная сумма вклада, тыс. руб:";
+			this->label6->Text = L"ГЏГҐГ°ГўГ®Г­Г Г·Г Г«ГјГ­Г Гї Г±ГіГ¬Г¬Г  ГўГЄГ«Г Г¤Г , ГІГ»Г±. Г°ГіГЎ:";
 			this->label6->Click += gcnew System::EventHandler(this, &MyForm::label6_Click);
 			// 
 			// MyForm
@@ -556,7 +556,7 @@ namespace Calc1 {
 			this->Margin = System::Windows::Forms::Padding(2);
 			this->Name = L"MyForm";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Калькулятор кредитов и вкладов";
+			this->Text = L"ГЉГ Г«ГјГЄГіГ«ГїГІГ®Г° ГЄГ°ГҐГ¤ГЁГІГ®Гў ГЁ ГўГЄГ«Г Г¤Г®Гў";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			this->tabControl1->ResumeLayout(false);
 			this->tabPage1->ResumeLayout(false);
@@ -573,7 +573,7 @@ namespace Calc1 {
 
 		}
 	#pragma endregion
-	// Калькулятор кредитов
+	// РљР°Р»СЊРєСѓР»СЏС‚РѕСЂ РєСЂРµРґРёС‚РѕРІ
 	private: System::Void textBox1_TextChanged(System::Object^ sender, System::EventArgs^ e) {
 	}
 	private: System::Void textBox1_TextChanged_1(System::Object^ sender, System::EventArgs^ e) {
@@ -598,7 +598,7 @@ namespace Calc1 {
 
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 
-		// Перевод данных, введенных пользователем, в тип double
+		// РџРµСЂРµРІРѕРґ РґР°РЅРЅС‹С…, РІРІРµРґРµРЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј, РІ С‚РёРї double
 		double num1 = System::Convert::ToDouble(numericUpDown1->Text);
 		double num2 = System::Convert::ToDouble(numericUpDown2->Text);
 		double num3 = System::Convert::ToDouble(numericUpDown3->Text);
@@ -607,33 +607,33 @@ namespace Calc1 {
 		double summ_mes = 0;
 		double p = 1;
 
-		// Проверка на корректность вода
+		// РџСЂРѕРІРµСЂРєР° РЅР° РєРѕСЂСЂРµРєС‚РЅРѕСЃС‚СЊ РІРѕРґР°
 		if (!check_input_numericUpDown1()) 
 		{
 
-			MessageBox::Show("Данные о сумме кредита введены некорректно.");
+			MessageBox::Show("Р”Р°РЅРЅС‹Рµ Рѕ СЃСѓРјРјРµ РєСЂРµРґРёС‚Р° РІРІРµРґРµРЅС‹ РЅРµРєРѕСЂСЂРµРєС‚РЅРѕ.");
 			k++;
 		}
 
 		if (!check_input_numericUpDown2()) 
 		{
 
-			MessageBox::Show("Данные о кредитной ставке введены некорректно.");
+			MessageBox::Show("Р”Р°РЅРЅС‹Рµ Рѕ РєСЂРµРґРёС‚РЅРѕР№ СЃС‚Р°РІРєРµ РІРІРµРґРµРЅС‹ РЅРµРєРѕСЂСЂРµРєС‚РЅРѕ.");
 			k++;
 		}
 
 		if (!check_input_numericUpDown3()) 
 		{
 
-			MessageBox::Show("Данные о сроке кредитования введены некорректно.");
+			MessageBox::Show("Р”Р°РЅРЅС‹Рµ Рѕ СЃСЂРѕРєРµ РєСЂРµРґРёС‚РѕРІР°РЅРёСЏ РІРІРµРґРµРЅС‹ РЅРµРєРѕСЂСЂРµРєС‚РЅРѕ.");
 			k++;
 		}
 
 
-		// Подсчет ежемесячного платежа по кредиту в случае корректного вводаданных
+		// РџРѕРґСЃС‡РµС‚ РµР¶РµРјРµСЃСЏС‡РЅРѕРіРѕ РїР»Р°С‚РµР¶Р° РїРѕ РєСЂРµРґРёС‚Сѓ РІ СЃР»СѓС‡Р°Рµ РєРѕСЂСЂРµРєС‚РЅРѕРіРѕ РІРІРѕРґР°РґР°РЅРЅС‹С…
 		if (k == 0) 
 		{
-			// Подсчет с помощью дополнительных переменных
+			// РџРѕРґСЃС‡РµС‚ СЃ РїРѕРјРѕС‰СЊСЋ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹С… РїРµСЂРµРјРµРЅРЅС‹С…
 			for (int i = 0; i < num3; i++) p = p * (1 + num2);
 			
 			double q = p - 1;
@@ -641,12 +641,12 @@ namespace Calc1 {
 			double s = num2 + r;
 			summ_mes = num1 * s;
 
-			summ_mes = (int)summ_mes; // Перевод переменной типа double к переменной типа string
+			summ_mes = (int)summ_mes; // РџРµСЂРµРІРѕРґ РїРµСЂРµРјРµРЅРЅРѕР№ С‚РёРїР° double Рє РїРµСЂРµРјРµРЅРЅРѕР№ С‚РёРїР° string
 			label5->Text = summ_mes.ToString();
 		}
 	}
 
-	// Очистка введенных данных
+	// РћС‡РёСЃС‚РєР° РІРІРµРґРµРЅРЅС‹С… РґР°РЅРЅС‹С…
 	private: System::Void button2_Click(System::Object ^ sender, System::EventArgs ^ e) {
 		numericUpDown1->Text = "0";
 		numericUpDown2->Text = "0";
@@ -654,7 +654,7 @@ namespace Calc1 {
 		label5->Text = "0";
 	}
 
-	// Функции проверки введенных данных на корректность
+	// Р¤СѓРЅРєС†РёРё РїСЂРѕРІРµСЂРєРё РІРІРµРґРµРЅРЅС‹С… РґР°РЅРЅС‹С… РЅР° РєРѕСЂСЂРµРєС‚РЅРѕСЃС‚СЊ
 	bool check_input_numericUpDown1() 
 	{
 		double num1 = System::Convert::ToDouble(numericUpDown1->Text);
@@ -677,7 +677,7 @@ namespace Calc1 {
 	}
 
 
-	// Калькулытор вкладов
+	// РљР°Р»СЊРєСѓР»С‹С‚РѕСЂ РІРєР»Р°РґРѕРІ
 	private: System::Void label6_Click(System::Object^ sender, System::EventArgs^ e) {
 	}
 	private: System::Void label7_Click(System::Object^ sender, System::EventArgs^ e) {
@@ -693,7 +693,7 @@ namespace Calc1 {
 	private: System::Void label12_Click(System::Object^ sender, System::EventArgs^ e) {
 	}
 
-	// Очистка введенных данных
+	// РћС‡РёСЃС‚РєР° РІРІРµРґРµРЅРЅС‹С… РґР°РЅРЅС‹С…
 	private: System::Void button5_Click(System::Object^ sender, System::EventArgs^ e) {
 		numericUpDown4->Text = "0";
 		numericUpDown5->Text = "0";
@@ -717,7 +717,7 @@ namespace Calc1 {
 	private: System::Void textBox3_TextChanged(System::Object^ sender, System::EventArgs^ e) {
 	}
 
-	// Функции проверки введенных данных на корректность
+	// Р¤СѓРЅРєС†РёРё РїСЂРѕРІРµСЂРєРё РІРІРµРґРµРЅРЅС‹С… РґР°РЅРЅС‹С… РЅР° РєРѕСЂСЂРµРєС‚РЅРѕСЃС‚СЊ
 	bool check_input_numericUpDown4() 
 	{
 		double num4 = System::Convert::ToDouble(numericUpDown4->Text);
@@ -762,11 +762,11 @@ namespace Calc1 {
 
 
 	private: System::Void button7_Click(System::Object^ sender, System::EventArgs^ e) {
-		MessageBox::Show("Подсчет ежемесячного платежа расчитан, что кредит является кредитом аннуитентного типа.");
+		MessageBox::Show("РџРѕРґСЃС‡РµС‚ РµР¶РµРјРµСЃСЏС‡РЅРѕРіРѕ РїР»Р°С‚РµР¶Р° СЂР°СЃС‡РёС‚Р°РЅ, С‡С‚Рѕ РєСЂРµРґРёС‚ СЏРІР»СЏРµС‚СЃСЏ РєСЂРµРґРёС‚РѕРј Р°РЅРЅСѓРёС‚РµРЅС‚РЅРѕРіРѕ С‚РёРїР°.");
 	}
 
 	private: System::Void button6_Click(System::Object^ sender, System::EventArgs^ e) {
-		MessageBox::Show("Расчет итоговой суммы по вкладу основан на формуле расчета с учетом ежемесячной капитализации процентов.");
+		MessageBox::Show("Р Р°СЃС‡РµС‚ РёС‚РѕРіРѕРІРѕР№ СЃСѓРјРјС‹ РїРѕ РІРєР»Р°РґСѓ РѕСЃРЅРѕРІР°РЅ РЅР° С„РѕСЂРјСѓР»Рµ СЂР°СЃС‡РµС‚Р° СЃ СѓС‡РµС‚РѕРј РµР¶РµРјРµСЃСЏС‡РЅРѕР№ РєР°РїРёС‚Р°Р»РёР·Р°С†РёРё РїСЂРѕС†РµРЅС‚РѕРІ.");
 	}
 
 	private: System::Void button4_Click(System::Object^ sender, System::EventArgs^ e) {
@@ -774,37 +774,37 @@ namespace Calc1 {
 		int b = 0;
 		if (!check_input_numericUpDown4()) 
 		{
-			MessageBox::Show("Некорректная первоначальная сумма вклада.");
+			MessageBox::Show("РќРµРєРѕСЂСЂРµРєС‚РЅР°СЏ РїРµСЂРІРѕРЅР°С‡Р°Р»СЊРЅР°СЏ СЃСѓРјРјР° РІРєР»Р°РґР°.");
 			b++;
 		}
 
 		if (!check_input_numericUpDown5()) 
 		{
-			MessageBox::Show("Некорректная процентная ставка по вкладу.");
+			MessageBox::Show("РќРµРєРѕСЂСЂРµРєС‚РЅР°СЏ РїСЂРѕС†РµРЅС‚РЅР°СЏ СЃС‚Р°РІРєР° РїРѕ РІРєР»Р°РґСѓ.");
 			b++;
 		}
 
 		if (!check_input_numericUpDown6()) 
 		{
-			MessageBox::Show("Некорректный период вклада.");
+			MessageBox::Show("РќРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ РїРµСЂРёРѕРґ РІРєР»Р°РґР°.");
 			b++;
 		}
 
 		if (!check_input_textbox1()) 
 		{
-			MessageBox::Show("Некорректное число.");
+			MessageBox::Show("РќРµРєРѕСЂСЂРµРєС‚РЅРѕРµ С‡РёСЃР»Рѕ.");
 			b++;
 		}
 
 		if (!check_input_textbox2()) 
 		{
-			MessageBox::Show("Некорректный номер месяца.");
+			MessageBox::Show("РќРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ РЅРѕРјРµСЂ РјРµСЃСЏС†Р°.");
 			b++;
 		}
 
 		if (!check_input_textbox3()) 
 		{
-			MessageBox::Show("Некорректный год.");
+			MessageBox::Show("РќРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ РіРѕРґ.");
 			b++;
 		}
 
@@ -817,11 +817,11 @@ namespace Calc1 {
 		double num9 = System::Convert::ToDouble(textBox3->Text);
 		int num10 = System::Convert::ToInt64(textBox3->Text);
 		
-		double year; // Количетсов дней в году, в котором внесен вклад
+		double year; // РљРѕР»РёС‡РµС‚СЃРѕРІ РґРЅРµР№ РІ РіРѕРґСѓ, РІ РєРѕС‚РѕСЂРѕРј РІРЅРµСЃРµРЅ РІРєР»Р°Рґ
 
 		if (b == 0) 
 		{
-			// Подсчет с помощью дополнительных переменных
+			// РџРѕРґСЃС‡РµС‚ СЃ РїРѕРјРѕС‰СЊСЋ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹С… РїРµСЂРµРјРµРЅРЅС‹С…
 			if ((num10 % 4 == 0) && (num10 % 100 == 0) && (num10 % 400 == 0))
 				year = 366;
 			else 
@@ -832,7 +832,7 @@ namespace Calc1 {
 			double g = f / l;
 			double h = num4 * (1 + g);
 
-			int summ_vklad = (int)h; // Округление числа
+			int summ_vklad = (int)h; // РћРєСЂСѓРіР»РµРЅРёРµ С‡РёСЃР»Р°
 			label12->Text = summ_vklad.ToString();
 
 		}
